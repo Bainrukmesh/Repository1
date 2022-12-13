@@ -5,7 +5,7 @@ orderdate,
 shipdate,
 shipmode,
 o.customerid,
-o.product id,
+o.productid,
 ordersellingprice,
 ordercostprice,
 --from raw_customer
